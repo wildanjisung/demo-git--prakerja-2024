@@ -1,0 +1,15 @@
+h1 {
+  color:green;
+  font-weight: bold;
+}
+
+.text-judul {
+  color: red;
+}
+
+@media screen and (min-width:900px) {
+  p {
+    color: blue
+  }
+
+}
